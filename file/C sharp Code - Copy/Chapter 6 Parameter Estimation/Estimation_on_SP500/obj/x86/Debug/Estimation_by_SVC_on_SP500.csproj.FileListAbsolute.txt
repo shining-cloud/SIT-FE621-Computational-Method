@@ -1,0 +1,5 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Estimation_by_SVC_on_SP500\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Estimation_by_SVC_on_SP500\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Estimation_by_SVC_on_SP500\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Estimation_by_SVC_on_SP500\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Estimation_by_SVC_on_SP500\obj\x86\Debug\ResolveAssemblyReference.cache

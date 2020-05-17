@@ -1,0 +1,15 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double Heston American Options LSM\bin\Debug\Double Heston American Options LSM.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double Heston American Options LSM\bin\Debug\Double Heston American Options LSM.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double Heston American Options LSM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double Heston American Options LSM\obj\x86\Debug\Double Heston American Options LSM.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double Heston American Options LSM\obj\x86\Debug\Double Heston American Options LSM.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double Heston American Options LSM\obj\x86\Debug\Double Heston American Options LSM.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double Heston American Options LSM\obj\x86\Debug\Double Heston American Options LSM.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double Heston American Options LSM\bin\Debug\Double Heston American Options LSM.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double Heston American Options LSM\bin\Debug\Double Heston American Options LSM.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double Heston American Options LSM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double Heston American Options LSM\obj\x86\Debug\Double Heston American Options LSM.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double Heston American Options LSM\obj\x86\Debug\Double Heston American Options LSM.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double Heston American Options LSM\bin\Debug\Double Heston American Options LSM.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double Heston American Options LSM\bin\Debug\Double Heston American Options LSM.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double Heston American Options LSM\obj\x86\Debug\ResolveAssemblyReference.cache

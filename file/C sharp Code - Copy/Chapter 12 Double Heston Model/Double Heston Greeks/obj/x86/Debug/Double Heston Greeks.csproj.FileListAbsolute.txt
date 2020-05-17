@@ -1,0 +1,15 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double Heston Greeks\bin\Debug\Double Heston Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double Heston Greeks\bin\Debug\Double Heston Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double Heston Greeks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double Heston Greeks\obj\x86\Debug\Double Heston Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double Heston Greeks\obj\x86\Debug\Double Heston Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double Heston Greeks\obj\x86\Debug\Double Heston Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double Heston Greeks\obj\x86\Debug\Double Heston Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double Heston Greeks\bin\Debug\Double Heston Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double Heston Greeks\bin\Debug\Double Heston Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double Heston Greeks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double Heston Greeks\obj\x86\Debug\Double Heston Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double Heston Greeks\obj\x86\Debug\Double Heston Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double Heston Greeks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double Heston Greeks\bin\Debug\Double Heston Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double Heston Greeks\bin\Debug\Double Heston Greeks.pdb

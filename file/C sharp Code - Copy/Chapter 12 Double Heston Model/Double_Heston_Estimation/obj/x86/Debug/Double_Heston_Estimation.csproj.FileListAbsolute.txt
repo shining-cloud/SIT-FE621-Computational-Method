@@ -1,0 +1,10 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Estimation\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Estimation\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Estimation\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Estimation\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Estimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double_Heston_Estimation\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double_Heston_Estimation\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double_Heston_Estimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double_Heston_Estimation\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double_Heston_Estimation\bin\Debug\HestonPriceGaussLaguerre.pdb

@@ -1,0 +1,10 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Double_Heston_Gauthier_Possamai\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Double_Heston_Gauthier_Possamai\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Double_Heston_Gauthier_Possamai\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C#\Double_Heston_Gauthier_Possamai\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Double_Heston_Gauthier_Possamai\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Gauthier_Possamai\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Gauthier_Possamai\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Gauthier_Possamai\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Gauthier_Possamai\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Gauthier_Possamai\obj\x86\Debug\ResolveAssemblyReference.cache

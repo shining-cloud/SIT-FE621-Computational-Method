@@ -1,0 +1,15 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double_Heston_Simulation\bin\Debug\Double_Heston_Simulation.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double_Heston_Simulation\bin\Debug\Double_Heston_Simulation.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double_Heston_Simulation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double_Heston_Simulation\obj\x86\Debug\Double_Heston_Simulation.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Double_Heston_Simulation\obj\x86\Debug\Double_Heston_Simulation.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Simulation\obj\x86\Debug\Double_Heston_Simulation.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Simulation\obj\x86\Debug\Double_Heston_Simulation.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Simulation\bin\Debug\Double_Heston_Simulation.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Simulation\bin\Debug\Double_Heston_Simulation.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 12\Double_Heston_Simulation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double_Heston_Simulation\obj\x86\Debug\Double_Heston_Simulation.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double_Heston_Simulation\obj\x86\Debug\Double_Heston_Simulation.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double_Heston_Simulation\bin\Debug\Double_Heston_Simulation.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double_Heston_Simulation\bin\Debug\Double_Heston_Simulation.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 12 Double Heston Model\C# Code\Double_Heston_Simulation\obj\x86\Debug\ResolveAssemblyReference.cache

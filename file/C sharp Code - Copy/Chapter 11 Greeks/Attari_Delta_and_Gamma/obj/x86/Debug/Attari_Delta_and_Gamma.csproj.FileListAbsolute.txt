@@ -1,0 +1,14 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Attari_Delta_and_Gamma\bin\Debug\Attari_Delta_and_Gamma.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Attari_Delta_and_Gamma\bin\Debug\Attari_Delta_and_Gamma.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Attari_Delta_and_Gamma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Attari_Delta_and_Gamma\obj\x86\Debug\Attari_Delta_and_Gamma.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Attari_Delta_and_Gamma\obj\x86\Debug\Attari_Delta_and_Gamma.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Attari_Delta_and_Gamma\obj\x86\Debug\Attari_Delta_and_Gamma.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Attari_Delta_and_Gamma\obj\x86\Debug\Attari_Delta_and_Gamma.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Attari_Delta_and_Gamma\obj\x86\Debug\Attari_Delta_and_Gamma.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Attari_Delta_and_Gamma\obj\x86\Debug\Attari_Delta_and_Gamma.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Attari_Delta_and_Gamma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Attari_Delta_and_Gamma\bin\Debug\Attari_Delta_and_Gamma.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Attari_Delta_and_Gamma\bin\Debug\Attari_Delta_and_Gamma.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 11 Greeks\C# Code\Attari_Delta_and_Gamma\obj\x86\Debug\Attari_Delta_and_Gamma.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 11 Greeks\C# Code\Attari_Delta_and_Gamma\obj\x86\Debug\Attari_Delta_and_Gamma.pdb

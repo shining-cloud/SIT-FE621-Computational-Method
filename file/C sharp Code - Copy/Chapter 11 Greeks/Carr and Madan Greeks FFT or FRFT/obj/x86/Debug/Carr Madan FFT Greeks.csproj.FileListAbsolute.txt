@@ -1,0 +1,7 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Carr Madan FFT Greeks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Carr Madan FFT Greeks\bin\Debug\Carr Madan FFT Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Carr Madan FFT Greeks\bin\Debug\Carr Madan FFT Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Carr Madan FFT Greeks\obj\x86\Debug\Carr Madan FFT Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Carr Madan FFT Greeks\obj\x86\Debug\Carr Madan FFT Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Carr Madan FFT Greeks\obj\x86\Debug\Carr Madan FFT Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Carr Madan FFT Greeks\obj\x86\Debug\Carr Madan FFT Greeks.pdb

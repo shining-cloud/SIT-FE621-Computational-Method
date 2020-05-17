@@ -1,0 +1,12 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Closed_Form_Heston_Greeks\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Closed_Form_Heston_Greeks\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Closed_Form_Heston_Greeks\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Closed_Form_Heston_Greeks\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Closed_Form_Heston_Greeks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Closed_Form_Heston_Greeks\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Closed_Form_Heston_Greeks\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Closed_Form_Heston_Greeks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Closed_Form_Heston_Greeks\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Closed_Form_Heston_Greeks\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 11 Greeks\C# Code\Closed_Form_Heston_Greeks\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 11 Greeks\C# Code\Closed_Form_Heston_Greeks\obj\x86\Debug\HestonPriceGaussLaguerre.pdb

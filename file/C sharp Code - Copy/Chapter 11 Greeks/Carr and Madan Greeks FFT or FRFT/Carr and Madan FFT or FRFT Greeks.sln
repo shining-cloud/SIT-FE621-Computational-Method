@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carr and Madan FFT or FRFT Greeks", "Carr and Madan FFT or FRFT Greeks.csproj", "{2CA3F5CE-2773-46E2-96DE-D7962A01E95F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA3F5CE-2773-46E2-96DE-D7962A01E95F}.Debug|x86.ActiveCfg = Debug|x86
+		{2CA3F5CE-2773-46E2-96DE-D7962A01E95F}.Debug|x86.Build.0 = Debug|x86
+		{2CA3F5CE-2773-46E2-96DE-D7962A01E95F}.Release|x86.ActiveCfg = Release|x86
+		{2CA3F5CE-2773-46E2-96DE-D7962A01E95F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

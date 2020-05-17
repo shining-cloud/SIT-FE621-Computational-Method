@@ -1,0 +1,11 @@
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\obj\x86\Debug\Lewis_Vol_of_Vol_Expansion.Properties.Resources.resources
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\bin\Debug\Lewis_Vol_of_Vol_Expansion.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\bin\Debug\Lewis_Vol_of_Vol_Expansion.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\obj\x86\Debug\Lewis_Vol_of_Vol_Expansion.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\obj\x86\Debug\Lewis_Vol_of_Vol_Expansion.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\obj\x86\Debug\Lewis_Vol_of_Vol_Expansion.MainForm.resources
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\obj\x86\Debug\Lewis_Vol_of_Vol_Expansion.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 4 Fundamental Transform\C# Code\Lewis_Vol_of_Vol_Expansion\obj\x86\Debug\Lewis_Vol_of_Vol_Expansion.pdb

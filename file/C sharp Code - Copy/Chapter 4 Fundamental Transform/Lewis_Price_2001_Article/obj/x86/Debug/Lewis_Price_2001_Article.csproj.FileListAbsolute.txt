@@ -1,0 +1,20 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Lewis_Price_2001_Article\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Lewis_Price_2001_Article\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Lewis_Price_2001_Article\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Lewis_Price_2001_Article\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Lewis_Price_2001_Article\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 4\Lewis_Price_2001_Article\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 4\Lewis_Price_2001_Article\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 4\Lewis_Price_2001_Article\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 4\Lewis_Price_2001_Article\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 4\Lewis_Price_2001_Article\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Price_2001_Article\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Price_2001_Article\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Price_2001_Article\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Price_2001_Article\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 4 Fundamental Transform\C# Code\Lewis_Price_2001_Article\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 4 Fundamental Transform\C# Code\Lewis_Price_2001_Article\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 4 Fundamental Transform\C# Code\Lewis_Price_2001_Article\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 4 Fundamental Transform\C# Code\Lewis_Price_2001_Article\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 4 Fundamental Transform\C# Code\Lewis_Price_2001_Article\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 4 Fundamental Transform\C# Code\Lewis_Price_2001_Article\obj\x86\Debug\ResolveAssemblyReference.cache

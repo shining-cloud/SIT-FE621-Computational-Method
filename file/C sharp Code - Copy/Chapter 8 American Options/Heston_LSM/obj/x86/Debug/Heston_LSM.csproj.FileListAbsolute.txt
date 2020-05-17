@@ -1,0 +1,22 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Heston_LSM\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Heston_LSM\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Heston_LSM\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Heston_LSM\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Heston_LSM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Heston_LSM\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Heston_LSM\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Heston_LSM\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Heston_LSM\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Heston_LSM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Heston_LSM\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Heston_LSM\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Heston_LSM\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Heston_LSM\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Heston_LSM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Heston_LSM\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Heston_LSM\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Heston_LSM\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Heston_LSM\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Heston_LSM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code sent to Wiley\Chapter 8 American Options\C# Code\Heston_LSM\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code sent to Wiley\Chapter 8 American Options\C# Code\Heston_LSM\obj\x86\Debug\HestonPriceGaussLaguerre.pdb

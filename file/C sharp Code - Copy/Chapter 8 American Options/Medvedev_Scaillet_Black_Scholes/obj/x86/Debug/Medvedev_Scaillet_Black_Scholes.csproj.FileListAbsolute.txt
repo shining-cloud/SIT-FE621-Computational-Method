@@ -1,0 +1,19 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scaillet_Black_Scholes\bin\Debug\Medvedev_Scaillet_Black_Scholes.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scaillet_Black_Scholes\bin\Debug\Medvedev_Scaillet_Black_Scholes.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\Medvedev_Scaillet_Black_Scholes.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\Medvedev_Scaillet_Black_Scholes.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scaillet_Black_Scholes_Bisection_old\obj\x86\Debug\Medvedev_Scaillet_Black_Scholes.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scaillet_Black_Scholes_Bisection_old\obj\x86\Debug\Medvedev_Scaillet_Black_Scholes.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\Medvedev_Scaillet_Black_Scholes.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\Medvedev_Scaillet_Black_Scholes.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Medvedev_Scaillet_Black_Scholes\bin\Debug\Medvedev_Scaillet_Black_Scholes.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Medvedev_Scaillet_Black_Scholes\bin\Debug\Medvedev_Scaillet_Black_Scholes.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\Medvedev_Scaillet_Black_Scholes.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\Medvedev_Scaillet_Black_Scholes.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Black_Scholes\bin\Debug\Medvedev_Scaillet_Black_Scholes.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Black_Scholes\bin\Debug\Medvedev_Scaillet_Black_Scholes.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\Medvedev_Scaillet_Black_Scholes.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Black_Scholes\obj\x86\Debug\Medvedev_Scaillet_Black_Scholes.pdb

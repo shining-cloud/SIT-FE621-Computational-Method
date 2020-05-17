@@ -1,0 +1,20 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Chiarella_Ziogas_American_Call\bin\Debug\Chiarella_Ziogas_American_Call.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Chiarella_Ziogas_American_Call\bin\Debug\Chiarella_Ziogas_American_Call.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Chiarella_Ziogas_American_Call\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Chiarella_Ziogas_American_Call\obj\x86\Debug\Chiarella_Ziogas_American_Call.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Chiarella_Ziogas_American_Call\obj\x86\Debug\Chiarella_Ziogas_American_Call.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Chiarella_Ziogas_American_Call\obj\x86\Debug\Chiarella_Ziogas_American_Call.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Chiarella_Ziogas_American_Call\obj\x86\Debug\Chiarella_Ziogas_American_Call.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Chiarella_Ziogas_American_Call\bin\Debug\Chiarella_Ziogas_American_Call.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Chiarella_Ziogas_American_Call\bin\Debug\Chiarella_Ziogas_American_Call.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Chiarella_Ziogas_American_Call\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Chiarella_Ziogas_American_Call\obj\x86\Debug\Chiarella_Ziogas_American_Call.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Chiarella_Ziogas_American_Call\obj\x86\Debug\Chiarella_Ziogas_American_Call.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Chiarella_Ziogas_American_Call\bin\Debug\Chiarella_Ziogas_American_Call.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Chiarella_Ziogas_American_Call\bin\Debug\Chiarella_Ziogas_American_Call.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Chiarella_Ziogas_American_Call\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Chiarella_Ziogas_American_Call\obj\x86\Debug\Chiarella_Ziogas_American_Call.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Chiarella_Ziogas_American_Call\obj\x86\Debug\Chiarella_Ziogas_American_Call.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Chiarella_Ziogas_American_Call\bin\Debug\Chiarella_Ziogas_American_Call.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Chiarella_Ziogas_American_Call\bin\Debug\Chiarella_Ziogas_American_Call.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Chiarella_Ziogas_American_Call\obj\x86\Debug\ResolveAssemblyReference.cache

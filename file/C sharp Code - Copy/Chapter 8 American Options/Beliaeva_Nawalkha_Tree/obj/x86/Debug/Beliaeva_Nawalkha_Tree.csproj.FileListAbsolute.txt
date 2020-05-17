@@ -1,0 +1,40 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree\bin\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree\bin\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree\obj\x86\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree\obj\x86\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating\obj\x86\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating\obj\x86\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating\bin\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating\bin\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating_and_Reduced_Mtx\obj\x86\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating_and_Reduced_Mtx\obj\x86\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating_and_Reduced_Mtx\bin\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating_and_Reduced_Mtx\bin\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating_and_Reduced_Mtx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating_and_Reduced_Mtx_V2\obj\x86\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating_and_Reduced_Mtx_V2\obj\x86\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating_and_Reduced_Mtx_V2\bin\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating_and_Reduced_Mtx_V2\bin\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Beliaeva_Nawalkha_Tree_with_Floating_and_Reduced_Mtx_V2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Beliaeva_Nawalkha_Tree\obj\x86\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Beliaeva_Nawalkha_Tree\obj\x86\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Beliaeva_Nawalkha_Tree\bin\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Beliaeva_Nawalkha_Tree\bin\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Beliaeva_Nawalkha_Tree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Beliaeva_Nawalkha_Tree_Clarke_Parrott\obj\x86\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Beliaeva_Nawalkha_Tree_Clarke_Parrott\obj\x86\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Beliaeva_Nawalkha_Tree_Clarke_Parrott\bin\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Beliaeva_Nawalkha_Tree_Clarke_Parrott\bin\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 8\Beliaeva_Nawalkha_Tree_Clarke_Parrott\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Beliaeva_Nawalkha_Tree\obj\x86\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Beliaeva_Nawalkha_Tree\obj\x86\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Beliaeva_Nawalkha_Tree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Beliaeva_Nawalkha_Tree\bin\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Beliaeva_Nawalkha_Tree\bin\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Beliaeva_Nawalkha_Tree\obj\x86\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Beliaeva_Nawalkha_Tree\obj\x86\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Beliaeva_Nawalkha_Tree\bin\Debug\Beliaeva_Nawalkha_Tree.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Beliaeva_Nawalkha_Tree\bin\Debug\Beliaeva_Nawalkha_Tree.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Beliaeva_Nawalkha_Tree\obj\x86\Debug\ResolveAssemblyReference.cache

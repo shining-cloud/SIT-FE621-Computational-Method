@@ -1,0 +1,8 @@
+C:\Users\Fabrice\Desktop\Visual C# Projects\HestonPriceGaussLaguerre\HestonPriceGaussLaguerre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Visual C# Projects\HestonPriceGaussLaguerre\HestonPriceGaussLaguerre\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Visual C# Projects\HestonPriceGaussLaguerre\HestonPriceGaussLaguerre\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Visual C# Projects\HestonPriceGaussLaguerre\HestonPriceGaussLaguerre\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Visual C# Projects\HestonPriceGaussLaguerre\HestonPriceGaussLaguerre\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\HestonPriceGaussLaguerre\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\HestonPriceGaussLaguerre\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\HestonPriceGaussLaguerre\obj\x86\Debug\ResolveAssemblyReference.cache

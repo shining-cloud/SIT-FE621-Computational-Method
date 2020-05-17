@@ -1,0 +1,12 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLegendre\bin\Debug\GenerateGaussLegendre.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLegendre\bin\Debug\GenerateGaussLegendre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLegendre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLegendre\obj\x86\Debug\GenerateGaussLegendre.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLegendre\obj\x86\Debug\GenerateGaussLegendre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\GenerateGaussLegendre\obj\x86\Debug\GenerateGaussLegendre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\GenerateGaussLegendre\obj\x86\Debug\GenerateGaussLegendre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\GenerateGaussLegendre\bin\Debug\GenerateGaussLegendre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\GenerateGaussLegendre\bin\Debug\GenerateGaussLegendre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\GenerateGaussLegendre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\GenerateGaussLegendre\obj\x86\Debug\GenerateGaussLegendre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\GenerateGaussLegendre\obj\x86\Debug\GenerateGaussLegendre.pdb

@@ -1,0 +1,7 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLobatto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLobatto\bin\Debug\GenerateGaussLobatto.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLobatto\bin\Debug\GenerateGaussLobatto.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLobatto\obj\x86\Debug\GenerateGaussLobatto.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLobatto\obj\x86\Debug\GenerateGaussLobatto.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\GenerateGaussLobatto\obj\x86\Debug\GenerateGaussLobatto.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\GenerateGaussLobatto\obj\x86\Debug\GenerateGaussLobatto.pdb

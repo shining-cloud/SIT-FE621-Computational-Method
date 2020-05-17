@@ -1,0 +1,19 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\GenerateGaussLaguerre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C#\GenerateGaussLaguerre\bin\Debug\GenerateGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\GenerateGaussLaguerre\bin\Debug\GenerateGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\GenerateGaussLaguerre\obj\x86\Debug\GenerateGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\GenerateGaussLaguerre\obj\x86\Debug\GenerateGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLaguerre\obj\x86\Debug\GenerateGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLaguerre\obj\x86\Debug\GenerateGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLaguerre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLaguerre\bin\Debug\GenerateGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\GenerateGaussLaguerre\bin\Debug\GenerateGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\GenerateGaussLaguerre\obj\x86\Debug\GenerateGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\GenerateGaussLaguerre\obj\x86\Debug\GenerateGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\GenerateGaussLaguerre\bin\Debug\GenerateGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\GenerateGaussLaguerre\bin\Debug\GenerateGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\GenerateGaussLaguerre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\GenerateGaussLaguerre\obj\x86\Debug\GenerateGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\GenerateGaussLaguerre\obj\x86\Debug\GenerateGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\GenerateGaussLaguerre\obj\x86\Debug\GenerateGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\GenerateGaussLaguerre\obj\x86\Debug\GenerateGaussLaguerre.pdb

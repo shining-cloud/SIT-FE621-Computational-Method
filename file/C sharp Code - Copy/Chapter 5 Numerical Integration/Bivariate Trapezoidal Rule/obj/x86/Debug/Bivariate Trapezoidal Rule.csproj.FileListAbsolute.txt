@@ -1,0 +1,17 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Bivariate Trapezoidal Rule\bin\Debug\Bivariate Trapezoidal Rule.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Bivariate Trapezoidal Rule\bin\Debug\Bivariate Trapezoidal Rule.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Bivariate Trapezoidal Rule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Bivariate Trapezoidal Rule\obj\x86\Debug\Bivariate Trapezoidal Rule.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Bivariate Trapezoidal Rule\obj\x86\Debug\Bivariate Trapezoidal Rule.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\Bivariate Trapezoidal Rule\obj\x86\Debug\Bivariate Trapezoidal Rule.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\Bivariate Trapezoidal Rule\obj\x86\Debug\Bivariate Trapezoidal Rule.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\Bivariate Trapezoidal Rule\bin\Debug\Bivariate Trapezoidal Rule.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\Bivariate Trapezoidal Rule\bin\Debug\Bivariate Trapezoidal Rule.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\Bivariate Trapezoidal Rule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\Bivariate Trapezoidal Rule\obj\x86\Debug\Bivariate Trapezoidal Rule.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\Bivariate Trapezoidal Rule\obj\x86\Debug\Bivariate Trapezoidal Rule.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\Bivariate Trapezoidal Rule\bin\Debug\Bivariate Trapezoidal Rule.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\Bivariate Trapezoidal Rule\bin\Debug\Bivariate Trapezoidal Rule.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\Bivariate Trapezoidal Rule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\Bivariate Trapezoidal Rule\obj\x86\Debug\Bivariate Trapezoidal Rule.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\Bivariate Trapezoidal Rule\obj\x86\Debug\Bivariate Trapezoidal Rule.pdb

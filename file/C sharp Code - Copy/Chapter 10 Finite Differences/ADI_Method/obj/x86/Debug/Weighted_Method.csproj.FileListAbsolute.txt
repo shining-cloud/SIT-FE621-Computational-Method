@@ -1,0 +1,5 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\Weighted_Method\bin\Debug\Weighted_Method.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\Weighted_Method\bin\Debug\Weighted_Method.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\Weighted_Method\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\Weighted_Method\obj\x86\Debug\Weighted_Method.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\Weighted_Method\obj\x86\Debug\Weighted_Method.pdb

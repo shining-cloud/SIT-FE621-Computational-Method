@@ -1,0 +1,15 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\ADI_Method\obj\x86\Debug\Weighted_Method.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\ADI_Method\obj\x86\Debug\Weighted_Method.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\ADI_Method\bin\Debug\Weighted_Method.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\ADI_Method\bin\Debug\Weighted_Method.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\ADI_Method\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 10 Finite Differences\C# Code\ADI_Method\obj\x86\Debug\Weighted_Method.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 10 Finite Differences\C# Code\ADI_Method\obj\x86\Debug\Weighted_Method.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 10 Finite Differences\C# Code\ADI_Method\bin\Debug\Weighted_Method.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 10 Finite Differences\C# Code\ADI_Method\bin\Debug\Weighted_Method.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 10 Finite Differences\C# Code\ADI_Method\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 10 Finite Differences\C# Code\ADI_Method\obj\x86\Debug\Weighted_Method.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 10 Finite Differences\C# Code\ADI_Method\obj\x86\Debug\Weighted_Method.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 10 Finite Differences\C# Code\ADI_Method\bin\Debug\Weighted_Method.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 10 Finite Differences\C# Code\ADI_Method\bin\Debug\Weighted_Method.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 10 Finite Differences\C# Code\ADI_Method\obj\x86\Debug\ResolveAssemblyReference.cache

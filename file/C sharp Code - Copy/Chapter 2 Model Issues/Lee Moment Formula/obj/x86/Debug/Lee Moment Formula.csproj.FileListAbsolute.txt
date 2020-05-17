@@ -1,0 +1,17 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Lee Moment Formula\bin\Debug\Lee Moment Formula.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Lee Moment Formula\bin\Debug\Lee Moment Formula.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Lee Moment Formula\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Lee Moment Formula\obj\x86\Debug\Lee Moment Formula.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Lee Moment Formula\obj\x86\Debug\Lee Moment Formula.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Lee Moment Formula\obj\x86\Debug\Lee Moment Formula.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Lee Moment Formula\obj\x86\Debug\Lee Moment Formula.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Lee Moment Formula\bin\Debug\Lee Moment Formula.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Lee Moment Formula\bin\Debug\Lee Moment Formula.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Lee Moment Formula\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Lee Moment Formula\obj\x86\Debug\Lee Moment Formula.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Lee Moment Formula\obj\x86\Debug\Lee Moment Formula.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Lee Moment Formula\bin\Debug\Lee Moment Formula.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Lee Moment Formula\bin\Debug\Lee Moment Formula.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Lee Moment Formula\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Lee Moment Formula\obj\x86\Debug\Lee Moment Formula.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Lee Moment Formula\obj\x86\Debug\Lee Moment Formula.pdb

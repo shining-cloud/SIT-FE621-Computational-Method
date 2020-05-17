@@ -1,0 +1,11 @@
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Implied_Volatility\bin\Debug\Implied_Volatility.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Implied_Volatility\bin\Debug\Implied_Volatility.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Implied_Volatility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Implied_Volatility\obj\x86\Debug\Implied_Volatility.Form1.resources
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Implied_Volatility\obj\x86\Debug\Implied_Volatility.Properties.Resources.resources
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Implied_Volatility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Implied_Volatility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Implied_Volatility\obj\x86\Debug\Implied_Volatility.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Implied_Volatility\obj\x86\Debug\Implied_Volatility.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Implied_Volatility\obj\x86\Debug\Implied_Volatility.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Implied_Volatility\obj\x86\Debug\Implied_Volatility.pdb

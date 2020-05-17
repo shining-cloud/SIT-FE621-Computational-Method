@@ -1,0 +1,12 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 6\Atiya Wall MLE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 6\Atiya Wall MLE\bin\Debug\Atiya Wall MLE.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 6\Atiya Wall MLE\bin\Debug\Atiya Wall MLE.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 6\Atiya Wall MLE\obj\x86\Debug\Atiya Wall MLE.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 6\Atiya Wall MLE\obj\x86\Debug\Atiya Wall MLE.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 6 Parameter Estimation\C# Code\Atiya Wall MLE\obj\x86\Debug\Atiya Wall MLE.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 6 Parameter Estimation\C# Code\Atiya Wall MLE\obj\x86\Debug\Atiya Wall MLE.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 6 Parameter Estimation\C# Code\Atiya Wall MLE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 6 Parameter Estimation\C# Code\Atiya Wall MLE\bin\Debug\Atiya Wall MLE.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 6 Parameter Estimation\C# Code\Atiya Wall MLE\bin\Debug\Atiya Wall MLE.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 6 Parameter Estimation\C# Code\Atiya Wall MLE\obj\x86\Debug\Atiya Wall MLE.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 6 Parameter Estimation\C# Code\Atiya Wall MLE\obj\x86\Debug\Atiya Wall MLE.pdb

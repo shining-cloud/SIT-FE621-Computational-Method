@@ -1,0 +1,20 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Variance_Swap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Variance_Swap\bin\Debug\Variance_Swap.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Variance_Swap\bin\Debug\Variance_Swap.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Variance_Swap\obj\x86\Debug\Variance_Swap.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Variance_Swap\obj\x86\Debug\Variance_Swap.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Variance_Swap\obj\x86\Debug\Variance_Swap.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Variance_Swap\obj\x86\Debug\Variance_Swap.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Variance_Swap\bin\Debug\Variance_Swap.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Variance_Swap\bin\Debug\Variance_Swap.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Variance_Swap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Variance_Swap\obj\x86\Debug\Variance_Swap.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Variance_Swap\obj\x86\Debug\Variance_Swap.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Variance_Swap\bin\Debug\Variance_Swap.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Variance_Swap\bin\Debug\Variance_Swap.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Variance_Swap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Variance_Swap\obj\x86\Debug\Variance_Swap.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Variance_Swap\obj\x86\Debug\Variance_Swap.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Variance_Swap\bin\Debug\Variance_Swap.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Variance_Swap\bin\Debug\Variance_Swap.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Variance_Swap\obj\x86\Debug\ResolveAssemblyReference.cache

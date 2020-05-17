@@ -1,0 +1,12 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Local_Volatility\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Local_Volatility\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Local_Volatility\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Local_Volatility\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 2\Local_Volatility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Local_Volatility\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Local_Volatility\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Local_Volatility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Local_Volatility\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 2 Model Issues\C# Code\Local_Volatility\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Local_Volatility\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 2 Model Issues\C# Code\Local_Volatility\obj\x86\Debug\HestonPriceGaussLaguerre.pdb

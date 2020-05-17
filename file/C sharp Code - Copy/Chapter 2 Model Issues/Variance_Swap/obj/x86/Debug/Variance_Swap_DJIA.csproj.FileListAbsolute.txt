@@ -1,0 +1,5 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Variance_Swap_DJIA\obj\x86\Debug\Variance_Swap.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Variance_Swap_DJIA\obj\x86\Debug\Variance_Swap.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Variance_Swap_DJIA\bin\Debug\Variance_Swap.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Variance_Swap_DJIA\bin\Debug\Variance_Swap.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Variance_Swap_DJIA\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Heston_FFT\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Heston_FFT\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Heston_FFT\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Heston_FFT\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Heston_FFT\obj\x86\Debug\ResolveAssemblyReference.cache

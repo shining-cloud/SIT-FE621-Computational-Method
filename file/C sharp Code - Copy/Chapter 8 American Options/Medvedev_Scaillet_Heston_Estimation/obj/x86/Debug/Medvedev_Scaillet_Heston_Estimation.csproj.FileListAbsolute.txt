@@ -1,0 +1,10 @@
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Heston_Estimation\obj\x86\Debug\Medvedev_Scalliet_Heston.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Heston_Estimation\obj\x86\Debug\Medvedev_Scalliet_Heston.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Heston_Estimation\bin\Debug\Medvedev_Scalliet_Heston.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Heston_Estimation\bin\Debug\Medvedev_Scalliet_Heston.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Heston_Estimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Heston_Estimation\obj\x86\Debug\Medvedev_Scalliet_Heston.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Heston_Estimation\obj\x86\Debug\Medvedev_Scalliet_Heston.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Heston_Estimation\bin\Debug\Medvedev_Scalliet_Heston.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Heston_Estimation\bin\Debug\Medvedev_Scalliet_Heston.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 8 American Options\C# Code\Medvedev_Scaillet_Heston_Estimation\obj\x86\Debug\ResolveAssemblyReference.cache

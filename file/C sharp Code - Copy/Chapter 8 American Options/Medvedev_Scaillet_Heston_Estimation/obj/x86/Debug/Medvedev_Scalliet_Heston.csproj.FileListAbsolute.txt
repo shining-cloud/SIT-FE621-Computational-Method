@@ -1,0 +1,5 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scalliet_Heston\bin\Debug\Medvedev_Scalliet_Heston.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scalliet_Heston\bin\Debug\Medvedev_Scalliet_Heston.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scalliet_Heston\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scalliet_Heston\obj\x86\Debug\Medvedev_Scalliet_Heston.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Medvedev_Scalliet_Heston\obj\x86\Debug\Medvedev_Scalliet_Heston.pdb

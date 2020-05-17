@@ -1,0 +1,5 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 7\Heston_Euler_and_Milstein\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 7\Heston_Euler_and_Milstein\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 7\Heston_Euler_and_Milstein\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 7\Heston_Euler_and_Milstein\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 7\Heston_Euler_and_Milstein\obj\x86\Debug\ResolveAssemblyReference.cache

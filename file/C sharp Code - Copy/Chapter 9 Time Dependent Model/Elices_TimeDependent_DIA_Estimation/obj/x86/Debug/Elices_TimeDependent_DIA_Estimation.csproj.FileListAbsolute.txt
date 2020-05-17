@@ -1,0 +1,30 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Elices_TimeDependent_DIA_Estimation\bin\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Elices_TimeDependent_DIA_Estimation\bin\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Elices_TimeDependent_DIA_Estimation\bin\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Elices_TimeDependent_DIA_Estimation\bin\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation\bin\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation\bin\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation - Copy\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation - Copy\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation - Copy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation - Copy\bin\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation - Copy\bin\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation - Copy - Copy\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation - Copy - Copy\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation - Copy - Copy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation - Copy - Copy\bin\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation - Copy - Copy\bin\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation\bin\Debug\Elices_TimeDependent_DIA_Estimation.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation\bin\Debug\Elices_TimeDependent_DIA_Estimation.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 9 Time Dependent Model\C# Code\Elices_TimeDependent_DIA_Estimation\obj\x86\Debug\ResolveAssemblyReference.cache

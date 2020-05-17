@@ -1,0 +1,12 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Benhamou_Gobet_Miri_Piecewise_Parameters\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Benhamou_Gobet_Miri_Piecewise_Parameters\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Benhamou_Gobet_Miri_Piecewise_Parameters\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Benhamou_Gobet_Miri_Piecewise_Parameters\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Benhamou_Gobet_Miri_Piecewise_Parameters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Benhamou_Gobet_Miri_Piecewise_Parameters\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Benhamou_Gobet_Miri_Piecewise_Parameters\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Benhamou_Gobet_Miri_Piecewise_Parameters\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Benhamou_Gobet_Miri_Piecewise_Parameters\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 9 Time Dependent Model\C# Code\Benhamou_Gobet_Miri_Piecewise_Parameters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 9 Time Dependent Model\C# Code\Benhamou_Gobet_Miri_Piecewise_Parameters\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 9 Time Dependent Model\C# Code\Benhamou_Gobet_Miri_Piecewise_Parameters\obj\x86\Debug\HestonPriceGaussLaguerre.pdb

@@ -1,0 +1,2 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Mikhailov and Nogel\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 9\Mikhailov and Nogel\obj\x86\Debug\HestonPriceGaussLaguerre.pdb

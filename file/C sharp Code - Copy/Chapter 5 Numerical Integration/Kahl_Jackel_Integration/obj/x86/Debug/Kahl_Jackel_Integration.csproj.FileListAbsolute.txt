@@ -1,0 +1,17 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Kahl_Jackel_Integration\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Kahl_Jackel_Integration\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Kahl_Jackel_Integration\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Kahl_Jackel_Integration\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Kahl_Jackel_Integration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\Kahl_Jackel_Integration\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\Kahl_Jackel_Integration\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\Kahl_Jackel_Integration\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\Kahl_Jackel_Integration\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 5\Kahl_Jackel_Integration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\Kahl_Jackel_Integration\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\Kahl_Jackel_Integration\obj\x86\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\Kahl_Jackel_Integration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\Kahl_Jackel_Integration\bin\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\Kahl_Jackel_Integration\bin\Debug\HestonPriceGaussLaguerre.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\Kahl_Jackel_Integration\obj\x86\Debug\HestonPriceGaussLaguerre.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\Kahl_Jackel_Integration\obj\x86\Debug\HestonPriceGaussLaguerre.pdb

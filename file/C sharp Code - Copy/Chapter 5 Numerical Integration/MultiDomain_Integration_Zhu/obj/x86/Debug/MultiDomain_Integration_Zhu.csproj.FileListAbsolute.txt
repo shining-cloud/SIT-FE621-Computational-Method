@@ -1,0 +1,15 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\MultiDomain_Integration_Zhu\bin\Debug\MultiDomain_Integration_Zhu.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\MultiDomain_Integration_Zhu\bin\Debug\MultiDomain_Integration_Zhu.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\MultiDomain_Integration_Zhu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\MultiDomain_Integration_Zhu\obj\x86\Debug\MultiDomain_Integration_Zhu.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\MultiDomain_Integration_Zhu\obj\x86\Debug\MultiDomain_Integration_Zhu.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\MultiDomain_Integration_Zhu\obj\x86\Debug\MultiDomain_Integration_Zhu.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\MultiDomain_Integration_Zhu\obj\x86\Debug\MultiDomain_Integration_Zhu.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\MultiDomain_Integration_Zhu\bin\Debug\MultiDomain_Integration_Zhu.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\MultiDomain_Integration_Zhu\bin\Debug\MultiDomain_Integration_Zhu.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 5 Numerical Integration\C# Code\MultiDomain_Integration_Zhu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\MultiDomain_Integration_Zhu\obj\x86\Debug\MultiDomain_Integration_Zhu.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\MultiDomain_Integration_Zhu\obj\x86\Debug\MultiDomain_Integration_Zhu.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\MultiDomain_Integration_Zhu\bin\Debug\MultiDomain_Integration_Zhu.exe
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\MultiDomain_Integration_Zhu\bin\Debug\MultiDomain_Integration_Zhu.pdb
+C:\Users\Fabrice\Desktop\Heston Book - Code\Chapter 5 Numerical Integration\C# Code\MultiDomain_Integration_Zhu\obj\x86\Debug\ResolveAssemblyReference.cache

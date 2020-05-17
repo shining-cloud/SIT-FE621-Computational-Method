@@ -1,0 +1,12 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Lewis_2001_Greeks\bin\Debug\Lewis_2001_Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Lewis_2001_Greeks\bin\Debug\Lewis_2001_Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Lewis_2001_Greeks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Lewis_2001_Greeks\obj\x86\Debug\Lewis_2001_Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Lewis_2001_Greeks\obj\x86\Debug\Lewis_2001_Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Lewis_2001_Greeks\obj\x86\Debug\Lewis_2001_Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Lewis_2001_Greeks\obj\x86\Debug\Lewis_2001_Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Lewis_2001_Greeks\obj\x86\Debug\Lewis_2001_Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Lewis_2001_Greeks\obj\x86\Debug\Lewis_2001_Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Lewis_2001_Greeks\bin\Debug\Lewis_2001_Greeks.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Lewis_2001_Greeks\bin\Debug\Lewis_2001_Greeks.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Lewis_2001_Greeks\obj\x86\Debug\ResolveAssemblyReference.cache

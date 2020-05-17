@@ -1,0 +1,677 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Unit 1: Polynomial Approximations, Root Finding, and Quadrature"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "References: Clewlow Chapter 1; Fusai Chapter 6; Rouah Chapter 5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 0. Pseudo Code"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "_Assignment_: A variable refers to a place in memory. We say that `x` gets the value 3 when `x` refers to the value 3 in memory. We write \n",
+    "\n",
+    "```python \n",
+    "x:= 3\n",
+    "```\n",
+    "An array is a sequential collection of data. We write `A[i]` to denote the `ith` element of an array"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "_Conditional_: A predicate is a statement involving variables that is either true or false depending on the values of the variables. For example `(x < 3)` is a predicate that evaluates to true for `x:=2` but false for `x:=5`. \n",
+    "\n",
+    "A conditional statement is a collection of two (or procedures) that execute if and only if a conditional statement is true.\n",
+    "\n",
+    "```python \n",
+    "if (x > 3)\n",
+    "    x:= x^(1/2)\n",
+    "else \n",
+    "    x:= (-x)^(1/2)\n",
+    "end if\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "_Iteration (while loop)_: An iteration is a procedure that repeats over and over again. A while loop is an iteration that repeats as long as a conditional is true. \n",
+    "\n",
+    "```python \n",
+    "x:=10\n",
+    "while not (x = 0)\n",
+    "    x:=x-1\n",
+    "end while\n",
+    "```\n",
+    "\n",
+    "The value `0` in the conditional would be called a sentinel--a special value that leads to a false condition that stops the procedure.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "_Iteration (for loop)_: A for loop is an iteration that repeats based on the values of a variable. It contains three instructions about the variable\n",
+    " - inital value\n",
+    " - bound \n",
+    " - rule for updating\n",
+    "\n",
+    "```python \n",
+    "s:=0\n",
+    "for (i:= 0; i < 10; i:=i+1)\n",
+    "    s:=s+i\n",
+    "end for\n",
+    "```\n",
+    "Or more simply \n",
+    "\n",
+    "```python \n",
+    "s:=0\n",
+    "for i:= 0 to 10\n",
+    "    s:=s+i\n",
+    "end for\n",
+    "```\n",
+    "where the rule for updating is understood to be `i:=i+1`"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "_Loop Invariants_: A loop invariant is a statement depending on variables that include a nonnegative integer representing the iteration. The statement is either true or false depending on the iteration. Generally loop invariants appear in algorithms that take the following form...\n",
+    "\n",
+    "1. Pre-Condition is True\n",
+    "2. Pre-Condition implies that loop invariant I(0) is true\n",
+    "3. For k >= 0, if the condition C(k) is true and the loop invariant I(k) is true before the kth iteration, then I(k+1) will be true after the kth iteration.\n",
+    "4. After many iterations the condition C(N) will be false and I(N) will be true. Here N is taken as small as possible. \n",
+    "5. Following N no more iterations will take place. I(N) true implies that Post Condition is true. "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "_Example_: Binary Search (similar to bisection method!)\n",
+    "\n",
+    "An integer `m` is a member of the sorted array of integers `A[ ]`. Determine its index. "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "```python\n",
+    "left_index:=0\n",
+    "right_index:=length(A[]) - 1\n",
+    "\n",
+    "while not (left_index = right_index)\n",
+    "    middle_index:=floor((left_index + right_index)/2)\n",
+    "    \n",
+    "    if (m <= A[middle_index])\n",
+    "        right_index:=middle_index\n",
+    "    else\n",
+    "        left_index:=middle_index + 1\n",
+    "    end if \n",
+    "end while\n",
+    "\n",
+    "print(left_index)\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Note that \n",
+    "\n",
+    "1. The loop invariant is index of `m` is between `left_index` and `right_index`.\n",
+    "2. The pre-condition is that `left_index` and `right_index` are initialized to `0` and `length(A[])` respectively. This ensures that `I(0)` is true before the first iteration of the loop. \n",
+    "3. The condition is that `left_index` and `right_index` are unequal. After at most ceiling(log_2(length(A[]))) iterations, the condition is false. \n",
+    "4. During each iteration the loop invariant remains true because of the conditional. \n",
+    "5. The post-condition is the `left_index` is the index of the value `m` in the array."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [],
+   "source": [
+    "import math\n",
+    "\n",
+    "A = range(0,100,5)\n",
+    "m = 35    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "7\n"
+     ]
+    }
+   ],
+   "source": [
+    "left_index=0\n",
+    "right_index=len(A)\n",
+    "\n",
+    "while (left_index != right_index):\n",
+    "    middle_index=math.floor((left_index + right_index)/2)\n",
+    "    \n",
+    "    if (m <= A[middle_index]):\n",
+    "        right_index=middle_index\n",
+    "    else:\n",
+    "        left_index=middle_index + 1\n",
+    "     \n",
+    "print(left_index)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 1. Pricing with Black Scholes Model"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _1.1 Forwards_\n",
+    "\n",
+    "A forward contract is a contract between counterparties to exchange an asset $S$ at a later time $T$ for a fixed price $K$. The forward price of the asset is the price that makes the current value of the contract zero. \n",
+    "\n",
+    "An arbitrage argument shows that the forward price is $S(0) e^{rT}$ where $r$ is the interest rate and $S(0)$ is the current price of the asset. \n",
+    "\n",
+    "Suppose to the contrary that $K > S(0) e^{rT}$. The seller of the forward contract could go long the asset to deliver to the buyer at time $T$ incurring an initial debt of $S(0)$ that growths to $S(0) e^{rT}$. Receiving $K$ for the asset results in a profit of $K - S(0) e^{rT}$. \n",
+    "\n",
+    "Suppose to the contrary that $K < S(0) e^{rT}$. The buyer of the forward contract could short the stock for a profit of $S(O)$ that grows to $S(0) e^{rT}$ at time $T$. Forfeiting $K$ for the asset results in a profit of $S(0) e^{rT} - K$. "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _1.2 Options_\n",
+    "\n",
+    "A European call option is a contract that gives the holder the right but not the obligation to purchase an asset $S$ at time $T$ for price $K$. If $S(T) > K$ then the holder will exercise the option. If $S(T) < K$ then the holder will not exercise the option. Therefore the pay-off for the holder is $\\max\\left\\{S(T) - K, 0\\right\\}$ sometimes written $\\left(S(T) - K \\right)^+$.\n",
+    "\n",
+    "If the market maker can determine a portfolio consisting of the asset and a money market account that replicates the value of the contract, then the initial invest in the portfolio should be the current value of the contract. Otherwise an arbitrage argument would imply a risk free profit to one of the counterparties. Establishing the portfolio requires a model for the price of the asset. We use geometric Brownian motion $$dS = \\mu S dt + \\sigma S dW$$ Take $C(S,t; \\mu, \\sigma, K, T)$ to be the value of the contract. Consider a portfolio $$P = C - C_{S} S \\ .$$ Note that Ito's lemma implies"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "\\begin{gathered}\n",
+    "dP = dC - C_S dS \\\\\n",
+    "= C_t dt + C_S dS + \\frac{1}{2} C_{SS} dS dS - C_S dS \\\\\n",
+    "= \\left(C_t + \\mu S C_S + \\frac{1}{2} \\sigma^2 S^2 C_{SS}\\right) dt + \\sigma S C_S dW - \\left(C_S \\mu S dt + C_S \\sigma S dW\\right)\n",
+    "\\\\  = \\left(C_t + \\frac{1}{2} \\sigma^2 C_{SS} S^2\\right) dt \n",
+    "\\end{gathered}"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Since this equation does not involve $dW$, this implies that the portfolio $P$ grows at the risk free rate $r$. Therefore"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "\\begin{gathered}\n",
+    "r dt = \\frac{dP}{P}  \\\\\n",
+    " = \\frac{\\left(C_t + \\frac{1}{2} \\sigma^2 S^2 C_{SS} \\right)}{C - C_S S} dt \n",
+    "\\end{gathered}"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "We have that $$r C = C_t + r S C_S + \\frac{1}{2} \\sigma^2 S^2 C_{SS}$$"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Since this equation for the $C$ does not depend on $\\mu$, we may replace $\\mu$ with $r$. In other words, we can take a model for the asset that does not take a bullish $\\mu > r$ or bearish $\\mu < r$.\n",
+    "\n",
+    "So the current value of the contract is $$e^{-r(T-t)} \\int_0^{\\infty} \\left(x - K\\right)^+ n\\left(x \\right) \\ dx$$ where $n$ is the probability density function of $S(T)$. Here $S(T)$ depends on $T$, $r$, $\\sigma$ and $S(0)$. Note that $$d\\log S = \\left(r - \\frac{1}{2} \\sigma^2 \\right) dt + \\sigma dW$$ Set $t=0$ we obtain $$e^{-r T} \\int_{\\log K}^{\\infty} \\left(e^x - K\\right)^+ n(x) \\ ds$$ where\n",
+    " "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "$$n(x) = \\frac{1}{\\sqrt{2 \\pi T \\sigma^2}} \\operatorname{exp}\\left(- \\frac{1}{2 \\sigma^2 T}\\left( s - \\log S(0) - \\left(r - \\frac{1}{2} \\sigma^2\\right) T \\right)\\right)$$"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Evaluating this integral we obtain \n",
+    "$$C(S,0; K,T,r,\\sigma) = e^{-rT}\\left( S(0)e^{rT} N(d_+) - K N(d_-)\\right)$$\n",
+    "where $$d_{\\pm} = \\displaystyle\\frac{\\log\\left( \\frac{S(0)e^{rT}}{K} \\right) \\pm \\frac{1}{2} \\sigma^2 T }{\\sigma \\sqrt{T}}$$"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _1.3 Put Call Parity_"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "A European put option is a contract that gives the holder the right but not the obligation to sell an asset $S$ at time $T$ for price $K$. If $S(T) > K$ then the holder will not exercise the option. If $S(T) < K$ then the holder will exercise the option. Therefore the pay-off for the buyer is $\\max\\left\\{K- S(T), 0\\right\\}$ sometimes written $\\left(K - S(T) \\right)^+$. \n",
+    "\n",
+    "Note that we have can relate the current value of a forwards, call options and put option. Consider a forward on $S$ between $t=0$ and $t=T$ struck at $K$. Moreover consider a portfolio that is long a call option on $S$ struck at $K$ and short a put option on $S$ struck at $K$. \n",
+    "\n",
+    "The current value of the forward is\n",
+    "\n",
+    "\\begin{gathered}\n",
+    "\\mathbb{E}\\left[e^{-r T}\\left( S - K \\right)\\right] = e^{-r T} \\mathbb{E}\\left[\\left( S - K \\right)\\right] \\\\ \n",
+    "e^{-r T} \\left( S(0) exp\\left( \\left(r - \\frac{1}{2} \\sigma^2\\right) t + \\sigma W(t) \\right) - K \\right) \\\\\n",
+    "=e^{-r T} \\left( S(0) e^{rT} - K \\right)\n",
+    "\\end{gathered}\n",
+    "\n",
+    "The current value of the portfolio is \n",
+    "\n",
+    "\\begin{gathered}\n",
+    "\\mathbb{E}\\left[e^{-r T}\\left( S - K \\right)^+\\right] - \\mathbb{E}\\left[e^{-r T}\\left( K - S \\right)^+\\right] \\\\ =  \n",
+    "\\mathbb{E}\\left[e^{-r T}\\left( S - K \\right)^+ - e^{-r T}\\left( K - S \\right)^+\\right]\n",
+    "\\\\ = \\mathbb{E}\\left[e^{-r T} \\left( S - K \\right)\\right] \n",
+    "\\end{gathered}\n",
+    "\n",
+    "because $ x - K = \\left(x - K\\right)^+ - \\left(K -x\\right)^+$ for all $x$\n",
+    "\n",
+    "Therefore the current value of the portfolio equals the current value of the forward. Note that call and put prices are quoted in the market. While there exist many proxies for the risk free interest rate $r$ such as the Treasury rate or LIBOR rate, the value of $r$ is not quoted in the market. Therefore put call parity gives a means of determining $r$. \n",
+    "\n",
+    "We can rearrange to deduce that the present value of a call option equals the present value of a portfolio consisting of long a forward and long a put option. This makes sense because the right to buy at $K$ is the obligation to buy at $K$ plus the right to sell at $K$."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### 1.4 _Bid Ask Spread_\n",
+    "\n",
+    "Market quotes have a bid price at which a counterparty is willing to buy the asset and an ask price at which a counterparty is willing sell an asset. The ask price is greater than or equal to the bid price. The spread between bid and ask amounts to a charge by market makers. The spread tends to be larger for assets with small volume.\n",
+    "\n",
+    "Since the bid and ask prices may be different, the market may not have a unique price for the option. Commonly we take the average of the bid and the ask to set a price. \n",
+    "\n",
+    "Note that the difference between bid and ask throws off put call parity. The numbers may not match on account of the spread."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### 1.5 _Moneyness_\n",
+    "\n",
+    "Moneyness refers to the relationship between the current value of a stock and the strike. There exist other measures of moneyness such as \n",
+    "\n",
+    " - $\\displaystyle \\frac{K}{S(0)}$\n",
+    " - $\\displaystyle \\frac{K}{S(0)e^{rT}}$\n",
+    " - $\\displaystyle \\log \\frac{K}{S(0)}$\n",
+    " - $\\displaystyle \\log \\frac{K}{S(0) e^{rT}}$\n",
+    " \n",
+    "Commonly we take $\\frac{K}{S(0)}$. For a call option, if the ratio is \n",
+    "\n",
+    " - greater than 1 then the asset is out of the money \n",
+    " - less than 1 then the asset is in the money \n",
+    " - equal to 1 then the asset is at the money\n",
+    "\n",
+    "For a put option, the distinctions are reversed. Deep in the money call option and put options have a small volume. In the model we have the same volatility for call and put options. However, we tend to use the market quote for the out of the money option because it has greater volume.  "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _1.5 Implied Volatility vs Realized Volatility_\n",
+    "\n",
+    "The Greeks refer to the sensitivities of prices with respect to various parameters. Note that $\\nu$ called vega refers to the sensitivity with respect to volatility $\\sigma$. We calculate that \n",
+    "\\begin{gathered}\n",
+    "\\nu \\underset{\\text{def}}{=} C_{\\sigma}(S,t; T, K, r, \\sigma) \\\\ = S(t) \\sqrt{T-t} N\\left(d_+\\right) \n",
+    "\\end{gathered}\n",
+    "Note that $\\nu > 0$ meaning that price is an increasing function of volatility in particular price is a one-to-one function of volatility. Since the market quotes a price for options, we can back out the volatility from the price. This is called implied volatility. \n",
+    "\n",
+    "Instead we can compute realized volatility through historical data. Assuming the the asset follows geometric Brownian motion, we have that $$S(t) = S(0) \\operatorname{exp}\\left\\lbrace \\sigma W(t) + \\left( r - \\frac{1}{2} \\sigma^2 \\right) t\\right\\rbrace$$ Considering $S(t_i)$ for $0 \\leq i \\leq N$. We have \n",
+    "\\begin{gathered}\n",
+    "\\sum_{k = 0}^{N-1} \\log\\left( \\frac{S(t_{k+1})}{S(t_k)} \\right)^2 = \\\\\n",
+    "\\sigma^2 \\sum_{k = 0}^{N-1} \\left(W(t_{k+1}) - W(t_k) \\right)^2 + \\\\ \n",
+    "\\left(r - \\frac{1}{2} \\sigma^2 \\right)^2\\sum_{k = 0}^{N-1} \\left(t_{k+1} - t_k \\right)^2 \\\\ + 2 \\sigma \\left(r - \\frac{1}{2} \\sigma^2\\right)\\sum_{k = 0}^{N-1}  \\left(W(t_{k+1}) - W(t_k) \\right) \\left(t_{k+1} - t_k \\right) \n",
+    "\\end{gathered}"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Note that for $\\max_{0 \\leq k \\leq N} |t_{k+1} - t_k|$ small, the second and third terms are negligible. Since quadratic variation $dW dW = dt$ the first term is $\\sigma^2(t_N - t_0)$. Therefore $$\\sigma^2 \\approx \\frac{1}{t_N - t_0}\\sum_{k = 0}^{N-1} \\log\\left( \\frac{S(t_{k+1})}{S(t_k)} \\right)^2$$"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**Question (Root Finding)**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "1. Obtain the price of a call and put option\n",
+    "2. Use put call parity to determine $r$\n",
+    "3. Use a root finding algorithm to determine $\\sigma$ from the call or put (use the out of the money option)\n",
+    "4. Compare to the realized volatility"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**Question (Quadrature)**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "1. Use an integration algorithm to determine the value of $$e^{-r T} \\int_{\\log K}^{\\infty} \\left(e^x - K\\right)^+ n(x) \\ ds$$\n",
+    "2. Compare to value from the Black-Scholes formula"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 2. Polynomial Approximations "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _2.1 Newton (think discrete Taylor approximation)_"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Given a set of data $\\left\\lbrace (x_i, y_i) \\right\\rbrace_{i=0}^N$ where $x_i \\neq x_j$. Set $n_0(x) \\equiv 1$ and $$n_j(x) = \\Pi_{i=0}^{j-1}(x -x_i)$$ for $1 \\leq j \\leq N$. We want to determine a polynomial of degree $N$ that passes through the points of the data set. We take $\\sum_{j=0}^{N-1} c_j n_j(x)$. Here $c_j$ should correspond to the analogous expression in Taylor expression. Set $[y_0] = y_0$, $$[y_0,y_1] = \\frac{y_1 - y_0}{x_1 - x_0}$$ and recursively define $$[y_0,\\ldots,y_k] = \\frac{[y_1,\\ldots,y_k] - [y_0,\\ldots,y_{k-1}] }{x_k - x_0}$$ This gives $c_j = [y_0,\\ldots, y_j]$. Note the the brackets $[$ and $]$ are just notation; they do not denote vectors in this context."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _2.2 Lagrange (think unit vectors)_"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Given a set of data $\\left\\lbrace (x_i, y_i) \\right\\rbrace_{i=0}^N$ where $x_i \\neq x_j$. Set $$L_j(x) = \\underset{\\underset{i \\neq j}{0 \\leq i \\leq N}}{\\prod} \\frac{x - x_i}{x_j - x_i} $$ Note that $L_j$ is a polynomial of degree $N$ such that $$L_i(x_j) = \\begin{cases} 0 & \\text{if } i \\neq j \\\\ 1 & \\text{if } i = j \\end{cases} $$ We want to determine a polynomial of degree $N$ that passes through the points of the data set. We take $\\sum_{j=0}^{N} y_j L_j(x)$."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _2.3 Legendre (think perdendicular vectors)_"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Take $\\omega(x)$ a positive function on $[a,b]$. Define inner product $\\left\\langle f,g \\right \\rangle = \\int_a^b f(x) g(x) \\omega(x) \\ dx$. If the inner product is 0, then the polynomials are orthogonal. We want to find a collection of polynomials $\\left\\lbrace P_j \\right\\rbrace$ where $P_j$ has degree $j$ and $\\left\\langle P_j, P_i \\right\\rangle = 0$ for $i \\neq j$. We can construct these polynomials with a Gram-Schmidt procedure. Suppose we have already constructed $P_0, P_1,\\ldots,P_n$. To generate $P_{n+1}$ we start with $a_n x P_n$. Note that degree of $a_n x P_n$ equal to $n+1$ implies that it is linearly independent from $P_0,\\ldots,P_n$. Moreover $$\\int_a^b x P_n(x) \\cdot P_m(x) \\omega(x) \\ dx = \\int_a^b  P_n(x) \\cdot  x P_m(x) \\omega(x) \\ dx = 0$$ for $0 \\leq m \\leq n-2$. To make $a_n x P_n$ orthogonal to $P_n$ and $P_{n-1}$ we subtract $$a_n x P_n - b_n P_n - c_n P_{n-1}$$ where $$b_n = \\frac{\\left\\langle P_n, a_n x P_n \\right\\rangle}{\\left\\langle P_n,P_n \\right\\rangle}$$ and $$c_n = \\frac{\\left\\langle P_{n-1}, a_n x P_n \\right\\rangle }{\\left\\langle P_{n-1},P_{n-1} \\right\\rangle}$$ We obtain the three term recurrence $$P_{n+1} = a_n x P_n - b_n P_n - c_n P_{n-1}$$ \n",
+    "\n",
+    "Take $\\omega(x) \\equiv 1$ and $[a,b] = [-1,1]$. We have \n",
+    "\n",
+    " - $P_0(x) = 1$\n",
+    " - $P_1(x) = x$\n",
+    " - $P_2(x) = \\frac{3}{2} x^2 - \\frac{1}{2}$\n",
+    " \n",
+    "The recurrence is given by $$a_n = \\frac{2n + 1}{n+1}, \\quad b_n = 0, \\quad c_n = \\frac{n}{n+1}$$ These are the Legendre polynomials."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 3. Root Finding"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Given a function $f(x)$ we call $x$ a root when $f(x) = 0$. We treat three methods that you can think of as applications of the first, second, and third order Newton approximation."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _3.1 Bisection Method_\n",
+    "\n",
+    "The bisection method adapts binary search to root finding. It starts with an interval containing a root with the function taking on opposite sign at the end points. At each iteration the interval is divided in half. Some issues are\n",
+    "\n",
+    "1. The method only applies in dimension 1 only\n",
+    "2. Must determine the initial interval \n",
+    "3. The method can fail for multiple roots such as $x^2$"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 65,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.7939453125"
+      ]
+     },
+     "execution_count": 65,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "import numpy as np\n",
+    "\n",
+    "def bisection(f, left, right, tolerance):\n",
+    "    mid = (left + right)/2\n",
+    "    while ( abs(f(mid)) > tolerance ):\n",
+    "        if ( np.sign(f(left)) * np.sign(f(mid)) < 0 ):\n",
+    "            right = mid\n",
+    "        else:\n",
+    "            left = mid\n",
+    "        mid = (left + right)/2\n",
+    "    return mid\n",
+    "\n",
+    "bisection(lambda x: 2*x**3 -1, -1, 1, 0.001)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _3.2 Newton Method and Secant Method_\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "The Taylor approximation of a function about a point $a$ is $$f(x) \\approx f(a) + f'(a) (x - a) $$ If $f(b) = 0$ then $$0 = f(b) \\approx  f(a) + f'(a) (b - a) $$ Solving gives $b = a - \\frac{f(a)}{f'(a)}$. Therefore with a guess $a$ for the root, we can update to $b$ through the formula. Some issues are\n",
+    "\n",
+    "1. Derivative not defined e.g. $x^2 -1$ at $x = 0$\n",
+    "2. The values repeat e.g. $x^3 - 2x + 2$ with $x = 0$\n",
+    "3. The values get farther away from the root $x^{1/3}$\n",
+    "\n",
+    "The Newton approximation of a function using two points $(x_0,y_0)$ and $(x_1,y_1)$ is $$f(x) = [f(x_0)] + [f(x_0), f(x_1)](x-x_0)$$ If $b$ is a root, then $$0 = f(b) = [f(x_0)] + [f(x_0), f(x_1)](b-x_0)$$ Solving gives $$b = x_0 - \\displaystyle \\frac{[f(x_0)]}{[f(x_0), f(x_1)]}$$"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _3.3 Muller Method_"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "The Newton approximation of a function using three points $(x_0,y_0)$, $(x_1,y_1)$, $(x_2,y_2)$ is $$f(x) \\approx [f(x_0)] + [f(x_0), f(x_1)](x-x_0) + [f(x_0), f(x_1), f(x_2)](x-x_0)(x-x_1)$$ We can rewrite as\n",
+    "$$f(x) \\approx [f(x_0)] + \\left([f(x_0), f(x_1)] + [f(x_0), f(x_2)] - [f(x_1), f(x_2)]\\right)(x-x_0) + [f(x_0), f(x_1), f(x_2)](x-x_0)^2$$ Set $b = [f(x_0), f(x_1), f(x_2)]$. The quadratic formula implies that the roots occur at $$x-x_0 = -\\displaystyle \\frac{2 f(x_0)}{b \\pm \\sqrt{b^2 - 4 f(x_0) [f(x_0), f(x_1), f(x_2)] }}$$ "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 4. Quadrature"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Suppose that we want to estimate the integral $\\int_a^b f \\ dx$. We try to determine points $x_i$ and weights $w_i$ such that $$\\int_a^b f \\ dx = \\sum_{i=0}^n w_i f(x_i)$$ Here $n$ is the order of the approximation. As $N$ gets larger and larger, we expect a more accurate approximation of the integral.  "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _4.1 Newton-Cotes_"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Take $x_1 = a$, $x_n = b$ and $x_i = a + (i-1) h$ where $h = (b-a)/(n-1)$. We use Lagrange approximation $f(x) \\approx \\sum_{i=0}^n f(x_i) L_i(x)$. Note $$\\int_a^b \\sum_{i=0}^n f(x_i) L_i(x) \\ dx = \\sum_{i=0}^n f(x_i) \\int_a^b  L_i(x) \\ dx$$ Using the change of variables $x = x_1 + (t-1) h$ \n",
+    "\\begin{gathered}\n",
+    "\\frac{x - x_k}{x_i - x_k} = \\frac{x_1 + (t-1) h - x_1 - (k-1) h }{x_1 + (i-1) h - x_1 - (k-1) h} \n",
+    "\\\\ = \\frac{t - k}{i - k}\n",
+    "\\end{gathered}\n",
+    "Therefore $$\\int_a^b L_i(x) \\ dx = h \\int_1^n \\underset{\\underset{k \\neq i}{0 \\leq k \\leq N}}{\\prod} \\frac{x - x_k}{x_i - x_k} \\ dt$$\n",
+    "Note that this integral depends only on $n$. "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "_Rectangle Rule_\n",
+    "\n",
+    "For $n=1$ we use $L_1(x) \\equiv 1$. Therefore $$\\int_a^b f(x) \\ dx \\approx (b-a) f(a)$$"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "_Trapezoid Rule_\n",
+    "\n",
+    "For $n=2$ we have $L_1(x) = \\frac{x - b}{a-b}$ and $L_2(x) = \\frac{x -a}{b-a}$. Integrating  $$w_1 = \\int_1^2 \\frac{t-2}{1 -2} \\ dt = \\int_1^2 2-t \\ dt  = \\frac{1}{2}$$ and $$w_2 = \\int_1^2 \\frac{t-1}{2 -1} \\ dt = \\int_1^2 t-1 \\ dt  = \\frac{1}{2}$$ Therefore $$\\int_a^b f(x) \\ dx \\approx \\frac{b-a}{2} f(a) + \\frac{b-a}{2} f(b)$$\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "_Simpson_\n",
+    "\n",
+    "For $n=3$ we have $h = (b-a)/2$. Integrating  $$w_1 = \\int_1^3 \\frac{(t-2)(t-3)}{(1-2)(1-3)} \\ dt = \\frac{1}{3}$$ $$w_2 = \\int_1^3 \\frac{(t-3)(t-1)}{(2-3)(2-1)} \\ dt  = \\frac{4}{3}$$ $$w_3 = \\int_1^3 \\frac{(t-1)(t-2)}{(3-2)(3-1)} \\ dt = \\frac{1}{3}$$ Therefore $$\\int_a^b f(x) \\ dx \\approx \\frac{1}{3} \\frac{b-a}{2} f(a) + \\frac{4}{3} \\frac{b-a}{2} f\\left(\\frac{b+a}{2}\\right) + \\frac{1}{3} \\frac{b-a}{2} f(b)$$"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### _4.2 Gauss-Legendre_"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Suppose we want a rule that exactly yields the integral of polynomials up to degree 3 on the interval [-1,1]. We require $$\\int_{-1}^1 1 \\ dx = 2 = w_1 + w_2$$ $$\\int_{-1}^1 x \\ dx = 0 = w_1 x_1 + w_2 x_2$$ $$\\int_{-1}^1 x^2 \\ dx = \\frac{2}{3} = w_1 x_1^2 + w_2 x_2^2$$ $$\\int_{-1}^1 x^3 \\ dx = 0 = w_1 x_1^3 + w_2 x_2^3$$ This yields the system of equations \n",
+    "$$\\begin{cases} w_1 + w_2 = 2 \\\\ w_1 x_1 + w_2 x_2 = 0 \\\\ w_1 x_1^2 + w_2 x_2^2 = \\frac{2}{3} \\\\ w_1 x_1^3 + w_2 x_2^3 = 0  \\end{cases}$$ We obtain solutions $w_1 = 1$, $w_2 = 1$, $x_1 = - \\frac{1}{\\sqrt{3}}$, $x_2 = \\frac{1}{\\sqrt{3}}$. Therefore we have the approximation $$\\int_{-1}^1 f(x) \\ dx = 1 \\cdot f\\left(- \\frac{1}{\\sqrt{3}} \\right) + 1 \\cdot f\\left(- \\frac{1}{\\sqrt{3}} \\right)$$"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "While it would seem that solving such a system is intractable, we can determine the weights and points using orthogonal polynomials. Suppose we want to integrate $\\int_a^b f(x) \\omega(x) \\ dx$ for a weight function $\\omega$ exactly when $f$ is a polynomial of degree $2n-1$. Take $P_n$ the $nth$ orthogonal polynomial. Let $x_i$ be the roots of $P_n$. Take $$w_i = \\displaystyle \\frac{\\left\\langle P_{n-1}, P_{n-1} \\right \\rangle}{P_{n-1}(x_i) P_n'(x_i)}$$"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}

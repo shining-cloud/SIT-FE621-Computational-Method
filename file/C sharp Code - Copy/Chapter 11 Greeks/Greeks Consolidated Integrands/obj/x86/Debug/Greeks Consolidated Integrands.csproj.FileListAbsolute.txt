@@ -1,0 +1,15 @@
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Greeks Consolidated Integrands\bin\Debug\Greeks Consolidated Integrands.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Greeks Consolidated Integrands\bin\Debug\Greeks Consolidated Integrands.pdb
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Greeks Consolidated Integrands\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Greeks Consolidated Integrands\obj\x86\Debug\Greeks Consolidated Integrands.exe
+C:\Users\Fabrice\Desktop\Heston Book C# Junk\Greeks Consolidated Integrands\obj\x86\Debug\Greeks Consolidated Integrands.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Greeks Consolidated Integrands\obj\x86\Debug\Greeks Consolidated Integrands.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Greeks Consolidated Integrands\obj\x86\Debug\Greeks Consolidated Integrands.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Greeks Consolidated Integrands\bin\Debug\Greeks Consolidated Integrands.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Greeks Consolidated Integrands\bin\Debug\Greeks Consolidated Integrands.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 11\Greeks Consolidated Integrands\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Greeks Consolidated Integrands\obj\x86\Debug\Greeks Consolidated Integrands.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Greeks Consolidated Integrands\obj\x86\Debug\Greeks Consolidated Integrands.pdb
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Greeks Consolidated Integrands\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Greeks Consolidated Integrands\bin\Debug\Greeks Consolidated Integrands.exe
+C:\Users\Fabrice\Desktop\Heston Book\Chapter 11 Greeks\C# Code\Greeks Consolidated Integrands\bin\Debug\Greeks Consolidated Integrands.pdb

@@ -1,0 +1,5 @@
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\Explicit_PDE_Method\obj\x86\Debug\Explicit_PDE_Uniform_and_NonUniform_Grid.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\Explicit_PDE_Method\obj\x86\Debug\Explicit_PDE_Uniform_and_NonUniform_Grid.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\Explicit_PDE_Method\bin\Debug\Explicit_PDE_Uniform_and_NonUniform_Grid.exe
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\Explicit_PDE_Method\bin\Debug\Explicit_PDE_Uniform_and_NonUniform_Grid.pdb
+C:\Users\Fabrice\Desktop\Heston Book C#\Chapter 10\Explicit_PDE_Method\obj\x86\Debug\ResolveAssemblyReference.cache
